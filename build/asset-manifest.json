@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e97c2d9.css",
+    "main.js": "/static/js/main.be83353d.js",
+    "static/js/453.113894e7.chunk.js": "/static/js/453.113894e7.chunk.js",
+    "static/media/Norsebold.otf": "/static/media/Norsebold.ca3f316347ae4817c604.otf",
+    "index.html": "/index.html",
+    "main.5e97c2d9.css.map": "/static/css/main.5e97c2d9.css.map",
+    "main.be83353d.js.map": "/static/js/main.be83353d.js.map",
+    "453.113894e7.chunk.js.map": "/static/js/453.113894e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e97c2d9.css",
+    "static/js/main.be83353d.js"
+  ]
+}
